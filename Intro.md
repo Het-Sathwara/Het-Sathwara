@@ -59,7 +59,7 @@ graph LR
 ## 📈 Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" alt="Het's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Het-Sathwara&theme=tokyo-night" alt="Het's Activity Graph" />
 </div>
 
 ## 📫 Connect with Me
